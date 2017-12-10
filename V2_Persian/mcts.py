@@ -7,12 +7,10 @@ import copy
 import random
 import datetime
 import math
-from player import Player
 
 
-class MCTS(Player):
+class MCTS(object):
     def __init__(self, name, board, simulation_time=0.3, max_moves=100, squared_c=2):
-        Player.__init__(self, name, board)
         self.name = name
         self.board = board
 
