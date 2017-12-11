@@ -1,5 +1,7 @@
 # ALphaMeow
 
+### DOING...
+
 AlphaMeow has everything AlphaGo has except Go.
 It has or will have what matters for AlphaGo, like Monte Carlo Tree Search(MCTS), reinforcement learning, self-play and deep learning.
 And stage code were also recorded here for myself and people who want to learn from it.
